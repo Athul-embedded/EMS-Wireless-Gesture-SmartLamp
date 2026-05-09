@@ -1,0 +1,5 @@
+esp_now
+WiFi
+Wire
+MPU6050
+PAJ7620

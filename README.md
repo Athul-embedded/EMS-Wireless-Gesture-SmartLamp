@@ -74,15 +74,8 @@ Receiver ESP32:
 
 ---
 
-## Project Images
 
-### System Overview
-![System](Images/system_overview.png)
 
-### Gesture Demo
-![Gesture](Images/gesture_demo.png)
-
----
 
 ## Future Improvements
 
